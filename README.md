@@ -8,3 +8,5 @@ In the notebook, there is also the script to download the data needed for the de
 3. You can choose between 6 different sequences: center_cam_left_arm, left_cam_left_arm, right_cam_left_arm, center_cam_right_arm, left_cam_right_arm, right_cam_right_arm
 
 ![Alt Text](visualization_0.gif)
+![Alt Text](visualization_1.gif)
+![Alt Text](visualization_2.gif)
